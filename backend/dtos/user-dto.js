@@ -18,4 +18,4 @@ class UserDto {
     }
 }
 
-module.exports = UserDto;
+module.exports = UserDto
